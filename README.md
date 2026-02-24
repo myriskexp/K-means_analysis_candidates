@@ -1,8 +1,7 @@
 # Candidate Segmentation Using K-Means Clustering — Executive Portfolio Report (EN/ES)
 
 🔗 **Live Demo**  
-<!-- Add GitHub Pages URL after deployment -->
-`Coming soon` (recommended: `https://myriskexp.github.io/K-means_analysis_candidates/`)
+https://myriskexp.github.io/K-means_analysis_candidates/
 
 **Built by MyRiskExp** · React · Vite
 
@@ -65,9 +64,7 @@ The objective of the website is to present the **decision-oriented findings** of
 # Segmentación de candidatos mediante agrupamiento K-means — Reporte Ejecutivo de Portafolio (ES)
 
 🔗 **Demo en vivo**  
-<!-- Agrega la URL de GitHub Pages después del despliegue -->
-`Próximamente` (recomendado: `https://myriskexp.github.io/K-means_analysis_candidates/`)
-
+https://myriskexp.github.io/K-means_analysis_candidates/
 **Built by MyRiskExp** · React · Vite
 
 Sitio web interactivo de portafolio, orientado a ejecutivos, que presenta un análisis anonimizado de **segmentación de candidatos mediante agrupamiento K-means**.  
