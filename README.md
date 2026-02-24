@@ -1,5 +1,10 @@
 # Candidate Segmentation Using K-Means Clustering — Executive Portfolio Report (EN/ES)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://myriskexp.github.io/K-means_analysis_candidates/)
+[![Deploy to GitHub Pages](https://github.com/myriskexp/K-means_analysis_candidates/actions/workflows/deploy.yml/badge.svg)](https://github.com/myriskexp/K-means_analysis_candidates/actions/workflows/deploy.yml)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+
 🔗 **Live Demo**  
 https://myriskexp.github.io/K-means_analysis_candidates/
 
@@ -62,6 +67,11 @@ The objective of the website is to present the **decision-oriented findings** of
 ---
 
 # Segmentación de candidatos mediante agrupamiento K-means — Reporte Ejecutivo de Portafolio (ES)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://myriskexp.github.io/K-means_analysis_candidates/)
+[![Deploy to GitHub Pages](https://github.com/myriskexp/K-means_analysis_candidates/actions/workflows/deploy.yml/badge.svg)](https://github.com/myriskexp/K-means_analysis_candidates/actions/workflows/deploy.yml)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 
 🔗 **Demo en vivo**  
 https://myriskexp.github.io/K-means_analysis_candidates/
